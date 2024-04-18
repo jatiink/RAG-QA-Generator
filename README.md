@@ -22,7 +22,7 @@ PDF Question Generator is a Streamlit application that generates various types o
 - **Frontend**: Streamlit
 
 ## Setup
-1. You Need to install [Ollama](https://ollama.com/download)
+1. Install [Ollama](https://ollama.com/download)
 2. Install the required dependencies:
    ```
    pip install -r requirements.txt
