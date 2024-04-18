@@ -1,0 +1,121 @@
+Provide 10 MCQ questions with answers
+Sure, here are 10 multiple choice questions based on the provided context:
+
+1. What is the Big Mac Index used to measure?
+a) The cost of living in different countries
+b) The exchange rate between two currencies
+c) The price of a Big Mac sandwich in different countries
+d) The level of economic development in a country
+
+Answer: c) The price of a Big Mac sandwich in different countries
+
+2. Why is the Big Mac Index limited by geographical coverage?
+a) Because McDonald's is only present in a few countries
+b) Because the index uses KFC's Original 15 pc. bucket to compile its data
+c) Because eating at international fast-food chain restaurants such as McDonald's is relatively expensive in comparison to eating at local restaurants
+d) Because there are no similar indices created solely for Africa
+
+Answer: c) Because eating at international fast-food chain restaurants such as McDonald's is relatively expensive in comparison to eating at local restaurants
+
+3. What is the theoretical reason why non-beef burgers are not available at any McDonald's outlets in India?
+a) Because Hindus do not eat beef
+b) Because McDonald's does not offer vegetarian options
+c) Because the Indian government has banned beef consumption
+d) Because McDonald's does not have any outlets in India
+
+Answer: a) Because Hindus do not eat beef
+
+4. What is the difference between the Australian and Canadian versions of the Big Mac?
+a) The Australian version has fewer calories than the Canadian version
+b) The Australian version has more calories than the Canadian version
+c) The Australian version has a different type of bread than the Canadian version
+d) The Australian version has a different type of meat than the Canadian version
+
+Answer: a) The Australian version has fewer calories than the Canadian version
+
+5. What is the purpose of using a single McDonald's Big Mac sandwich to simplify the Big Mac Index?
+a) To provide a more accurate measure of the cost of living in different countries
+b) To make the index easier to understand for non-economists
+c) To show how the price of a Big Mac sandwich varies across different countries
+d) To highlight the differences between the cost of living in developed and developing countries
+
+Answer: b) To make the index easier to understand for non-economists
+
+6. What is the name of the theory that underpins the Big Mac Index?
+a) The Purchasing Power Parity (PPP) theory
+b) The Big Mac Theory
+c) The Cost of Living Index theory
+d) The Fast Food Pricing theory
+
+Answer: a) The Purchasing Power Parity (PPP) theory
+
+7. What is the main reason why the Big Mac Index gave rise to the term "burgernomics"?
+a) Because it measures the price of a fast food sandwich in different countries
+b) Because it highlights the differences in the cost of living between developed and developing countries
+c) Because it shows how economic theories can be applied to everyday products like Big Mac sandwiches
+d) Because it provides a humorous way to discuss economic concepts
+
+Answer: d) Because it provides a humorous way to discuss economic concepts
+
+8. What is the difference between the exclusive beef burgers available at McDonald's outlets in India and the Chicken Maharaja Mac?
+a) The Chicken Maharaja Mac has fewer calories than the exclusive beef burgers
+b) The Chicken Maharaja Mac has more calories than the exclusive beef burgers
+c) The Chicken Maharaja Mac is a vegetarian option available at McDonald's outlets in India
+d) The Chicken Maharaja Mac is a spicy version of the Big Mac sandwich
+
+Answer: b) The Chicken Maharaja Mac has more calories than the exclusive beef burgers
+
+9. What is the purpose of including 30 occupations in the current Purchasing Power Parity (PPP) calculations?
+a) To provide a more accurate measure of the cost of living in different countries
+b) To include a wider range of goods and services in the calculation
+c) To make the index easier to understand for non-economists
+d) To highlight the differences between the cost of living in developed and developing countries
+
+Answer: b) To include a wider range of goods and services in the calculation
+
+10. What is the Organization for Economic Co-operation and Development (OECD)?
+a) An international economic organization that provides data and analysis on economic trends and policies
+b) A non-profit organization that promotes economic development and cooperation among countries
+c) A research institution that studies the impact of economic policies on different countries
+d) A government agency that provides economic data and forecasts for different countries
+
+Answer: a) An international economic organization that provides data and analysis on economic trends and policies
+
+Provide 10 true/false questions with answers
+Sure, here are 10 true/false questions related to the topic of the Big Mac Index and international price comparisons:
+
+1. True or False: The Big Mac Index is a measure of the relative cost of living between countries. (True)
+2. True or False: The Big Mac Index only considers the price of the Big Mac sandwich when calculating the cost of living between countries. (False - it also considers other items on the menu)
+3. True or False: The Big Mac Index is limited by geographical coverage due to the presence of the McDonald's franchise. (True)
+4. True or False: In many countries, eating at international fast-food chain restaurants such as McDonald's is relatively expensive compared to eating at local restaurants. (True)
+5. True or False: The demand for Big Macs is not as large in countries such as India as it is in the United States. (True)
+6. True or False: The social status of eating at fast food restaurants such as McDonald's in a local market can affect the proportion of sales that are to expatriates, local taxes, levels of competition, and import duties on selected items. (True)
+7. True or False: Non-tradable goods and services such as property costs should be equal in different countries. (False - there is no theoretical reason why they should be)
+8. True or False: The relative cost of high-margin products such as essential pharmaceutical products or cellular telephony might compare local capacity and willingness to pay, as much as relative currency values. (True)
+9. True or False: McDonald's uses different commercial strategies in different countries that can result in huge differences for a product. (True)
+10. True or False: The Big Mac Index is a reflection of its local production and delivery costs, the cost of advertising (considerable in some areas), and most importantly what the local market will bear – quite different from PPPs being different from market exchange rates over time. (True)
+
+Provide 10 long questions that have answers only in one word with answers
+Of course! Here are 10 long questions with one-word answers related to the Big Mac Index:
+
+1. What is the geographical coverage of the Big Mac Index?
+Answer: Worldwide
+2. Which fast food chain is used in the Big Mac Index?
+Answer: McDonald's
+3. How many countries have at least one McDonald's restaurant?
+Answer: Over 100
+4. What is the lack of restaurants in Africa due to?
+Answer: Limited geographical coverage
+5. Why was the KFC Index created?
+Answer: Similar index for Africa
+6. In which countries is eating at international fast food chain restaurants relatively expensive?
+Answer: India, United States
+7. What proportion of sales might be to expatriates in some countries?
+Answer: Significant
+8. How much does a Big Mac cost in Taiwan?
+Answer: $2.39
+9. Which city has the fastest working time required to buy a Big Mac?
+Answer: Hong Kong
+10. Which city has the slowest working time required to buy a Big Mac?
+Answer: Kenya
+
