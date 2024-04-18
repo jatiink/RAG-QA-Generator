@@ -30,3 +30,6 @@ PDF Question Generator is a Streamlit application that generates various types o
 3. View the generated questions in the Streamlit app interface.
 4. The generated questions will also be saved in a Generated_Questions.txt file in the same directory.
 5. Users can also upload a TXT file for processing.
+
+## Sample Output:
+![Screenshot (39)](https://github.com/jatiink/RAG-QA-Generator/assets/97089717/dd13fbed-aff6-4032-bcc5-5bca781cd0f1)
