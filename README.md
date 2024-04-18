@@ -21,11 +21,23 @@ PDF Question Generator is a Streamlit application that generates various types o
 - **Vector Store**: FAISS
 - **Frontend**: Streamlit
 
+## Setup
+1. You Need to install [Ollama](https://ollama.com/download)
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Need to pull llama 2 model from ollama:
+    ```
+   ollama pull llama2
+   ```
+    
 ## Usage
 
 1. Run the Streamlit app:
-   ```bash
+   ```
    streamlit run app.py
+   ```
 2. Upload a PDF file using the file uploader.
 3. View the generated questions in the Streamlit app interface.
 4. The generated questions will also be saved in a Generated_Questions.txt file in the same directory.
