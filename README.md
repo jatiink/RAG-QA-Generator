@@ -1,6 +1,6 @@
 # RAG QA Generator
 
-Question/Answers Generator is a Streamlit application that generates various types of questions from a PDF document. It leverages language models and natural language processing techniques to extract relevant information from the PDF and create questions like Multiple Choice Questions (MCQs), True/False questions, and long questions with one-word answers.
+RAG QA Generator is a Streamlit application that generates various types of questions from a PDF document. It leverages language models and natural language processing techniques to extract relevant information from the PDF and create questions like Multiple Choice Questions (MCQs), True/False questions, and long questions with one-word answers.
 
 ## Features
 
