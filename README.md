@@ -1,4 +1,4 @@
-# RAG-QA-Generator
+# RAG QA Generator
 
 # PDF Question Generator
 
