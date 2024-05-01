@@ -1,0 +1,8 @@
+streamlit==0.89.0
+langchain==0.1.16
+huggingface-hub==0.22.2
+numpy==1.21.2
+torch==1.10.0
+sentence-transformers==2.1.0
+PyPDF2==1.26.0
+ollama==0.1.32
